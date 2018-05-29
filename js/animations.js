@@ -44,6 +44,10 @@ $(document).ready(function(){
 			setTimeout(function(){$('#client_logo_4').addClass('animated fadeInUp')},1000);
 			setTimeout(function(){$('#client_logo_5').addClass('animated fadeInUp')},1200);
 			setTimeout(function(){$('#client_logo_6').addClass('animated fadeInUp')},1400);
+			setTimeout(function(){$('#client_logo_7').addClass('animated fadeInUp')},1600);
+			setTimeout(function(){$('#client_logo_8').addClass('animated fadeInUp')},1800);
+			setTimeout(function(){$('#client_logo_9').addClass('animated fadeInUp')},2000);
+			setTimeout(function(){$('#client_logo_10').addClass('animated fadeInUp')},2200);
 		}, { offset: '65%' });
 		
 		$('#footer').waypoint(function() {
